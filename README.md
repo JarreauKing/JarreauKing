@@ -4,7 +4,7 @@
  I am a full stack web developer based out of Atlantic City, NJ. I am a passionate developer with a focus on front-end web development.
  
 ## Tools
-<img src="https://img.icons8.com/color/512/windows-10.png" width="50" height="50"/> <img src="https://img.icons8.com/fluency/512/mac-os.png" width="50" height="50"/> <img src="https://img.icons8.com/fluency/512/visual-studio-code-2019.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/512/windows-10.png" width="50" height="50"/> <img src="https://img.icons8.com/fluency/512/mac-os.png" width="50" height="50"/> <img src="https://img.icons8.com/fluency/512/visual-studio-code-2019.png" width="50" height="50"/> <img src="https://img.icons8.com/color/512/html-5.png" width="50" height="50"> <img src="https://img.icons8.com/color/512/css3.png" width="50" height="50"> <img src="https://img.icons8.com/color/512/javascript.png" width="50" height="50">
 
 ## Github Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jarreauking&langs_count=5&theme=tokyonight)]()
